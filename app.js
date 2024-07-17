@@ -65,13 +65,6 @@ function reiniciarJogo() {
     document.getElementById('reiniciar').setAttribute('disabled', true)
 }
 
-//deu certo
-
-if (true == true) {
-    console.log("true")
-}
-
-// deu errado
 
 
 
